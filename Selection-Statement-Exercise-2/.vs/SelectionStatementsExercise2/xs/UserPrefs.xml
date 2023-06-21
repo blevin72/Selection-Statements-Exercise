@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D23B5324-ED58-47CC-8027-7CFC7A11697C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SelectionStatementsExercise2/Program.cs">
+    <Files>
+      <File FileName="SelectionStatementsExercise2/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SelectionStatementsExercise2" expanded="True">
+            <Node name="SelectionStatementsExercise2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SelectionStatementsExercise2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
